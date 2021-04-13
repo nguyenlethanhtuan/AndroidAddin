@@ -1,2 +1,3 @@
+include ':drmlibrary'
 include ':app'
 rootProject.name = "AndroidAddin"
